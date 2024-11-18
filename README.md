@@ -73,7 +73,7 @@ Follow these steps to convert and upload your emails:
 * 1\. **Run the Converter**
 
    ```bash
-   python converter.py --input /path/to/your/mboxfile.mbox --output /path/to/eml/output --labels
+   python converter.py /path/to/your/mboxfile.mbox
    ```
 
    - The `--labels` flag will display which labels will be created during the upload.
