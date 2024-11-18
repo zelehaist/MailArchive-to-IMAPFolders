@@ -37,7 +37,7 @@
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/zelehaist/MailArchive-to-IMAPFolders.git
+   git clone https://github.com/zlhst/MailArchive-to-IMAPFolders.git
    cd MailArchive-to-IMAPFolders
    ```
    
